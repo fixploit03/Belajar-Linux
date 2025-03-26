@@ -1,13 +1,13 @@
-# Perintah Menampilkan Isi File di Linux
+# Materi 3 - Menampilkan Isi File di Linux
 
-## Perintah Dasar
+## Dasar
 
 | Perintah	| Fungsi | Contoh Penggunaan |
 |:--:|:--:|:--:|
 | cat `[nama_file]` | Menampilkan seluruh isi file | cat dokumen.txt |
 | tac `[nama_file]` | Menampilkan isi file dari bawah ke atas | tac laporan.log |
 
-## Perintah dengan Navigasi
+## Dengan Navigasi
 
 | Perintah	| Fungsi | Contoh Penggunaan |
 |:--:|:--:|:--:|
@@ -32,6 +32,6 @@
 
 ## Fitur Khusus
 
-| Perintah	| Fungsi | Contoh Penggunaan |
+| Perintah	| Fungsi | Keterangan |
 |:--:|:--:|:--:|
-| tail -f `[nama_file]` | Menampilkan isi file secara real-time | tail -f auth.log |
+| tail -f `[nama_file]` | Menampilkan isi file secara real-time | Sangat berguna untuk monitoring log |
