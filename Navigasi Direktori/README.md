@@ -1,4 +1,4 @@
-# Navigasi Direktori di Linux
+# Materi 1 - Navigasi Direktori
 
 ## Menampilkan Informasi Direktori
 
