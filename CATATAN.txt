@@ -1,0 +1,7 @@
+- Melihat Isi File
+- Pencarian File dan Direktori
+- Hak Akses File dan Direktori
+- Informasi Sistem dan Disk
+- Kompresi dan Ekstraksi File
+- Manajemen Proses
+- Manajemen Pengguna dan Grup
