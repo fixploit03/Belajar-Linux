@@ -1,4 +1,6 @@
-# Navigasi Direktori
+# Navigasi Direktori di Linux
+
+## Menampilkan Informasi Direktori
 
 | Perintah	| Fungsi |
 |:--:|:--:|
@@ -7,6 +9,11 @@
 | ls -l	| Menampilkan isi direktori dalam format daftar detail |
 | ls -a	| Menampilkan semua file, termasuk file tersembunyi |
 | ls -lh | Menampilkan ukuran file dalam format yang mudah dibaca |
+
+## Berpindah Direktori
+
+| Perintah	| Fungsi |
+|:--:|:--:|
 | cd `[nama_direktori]`	| Berpindah ke direktori tertentu | 
 | cd ..	| Kembali ke direktori induk (parent directory) |
 | cd ~	| Berpindah ke direktori home |
