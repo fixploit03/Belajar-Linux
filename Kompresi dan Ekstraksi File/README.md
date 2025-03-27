@@ -1,4 +1,4 @@
-# Materi 7 - Kompresi dan Ekstraksi File di Linux
+# Materi 4 - Perintah Dasar Linux - Kompresi dan Ekstraksi File
 
 ## 1. TAR
 
