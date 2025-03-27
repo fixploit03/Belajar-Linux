@@ -15,8 +15,8 @@
 ```
 /home/linux/documents
  └┬┘   └┬┘   └┬┘
-  |     |     |
-  |     |     Current Directory
+  |     |      |
+  |     |      Current Directory
   |     Parrent Directory
   Base Directory
 ```
