@@ -1,5 +1,7 @@
 # Materi 1 - Apa itu Linux?
 
+![](https://github.com/fixploit03/Belajar-Linux/blob/main/img/Linus-Trovalds.jpg)
+
 ## Definisi Dasar
 
 **Linux adalah sistem operasi open-source berbasis kernel Linux yang dikembangkan pertama kali oleh Linus Torvalds pada tahun 1991**. Merupakan sistem operasi yang bebas didistribusikan dan dapat dimodifikasi oleh siapa pun.
