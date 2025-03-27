@@ -1,4 +1,4 @@
-# Materi 1 - Navigasi Direktori
+# Materi 4 - Perintah dasar Linux
 
 ## Menampilkan Informasi Direktori
 
