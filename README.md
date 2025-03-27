@@ -9,7 +9,7 @@
 - Materi 3 - [Struktur Direktori Linux](https://github.com/fixploit03/Belajar-Linux/tree/main/Struktur%20Direktori%20Linux)
 - Materi 4 - Perintah Dasar Linux
   - [Navigasi Direktori](https://github.com/fixploit03/Belajar-Linux/tree/main/Navigasi%20Direktori)
-  - [Manajemen File dan Direktori](https://github.com/fixploit03/Belajar-Linux/tree/main/Manajemen%20FIle%20dan%20Direktori)
+  - [Manajemen File dan Direktori](https://github.com/fixploit03/Belajar-Linux/tree/main/Manajemen%20File%20dan%20Direktori)
   - [Menampilkan Isi File](https://github.com/fixploit03/Belajar-Linux/tree/main/Menampilkan%20Isi%20FIle)
   - [Pencarian File dan Direktori](https://github.com/fixploit03/Belajar-Linux/tree/main/Manajemen%20File%20dan%20Direktori)
   - [Hak Akses File dan Direktori](https://github.com/fixploit03/Belajar-Linux/tree/main/Hak%20Akses%20File%20dan%20Direktori)
