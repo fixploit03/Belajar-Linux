@@ -1,4 +1,4 @@
-# Materi 4 - Pencarian File dan Direktori di Linux
+# Materi 4 - Perintah Dasar Linux - Pencarian File dan Direktori di Linux
 
 ## Pencarian Menggunakan `find`
 
