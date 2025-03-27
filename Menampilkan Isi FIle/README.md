@@ -1,6 +1,4 @@
-# Materi 4 - Perintah dasar Linux
-
-## Menampilkan Isi File
+# Materi 4 - Perintah dasar Linux-  Menampilkan Isi File
 
 ## Dasar
 
