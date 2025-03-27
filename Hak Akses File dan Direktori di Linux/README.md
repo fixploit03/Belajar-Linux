@@ -1,4 +1,4 @@
-# Materi 5 - Hak Akses File dan Direktori di Linux
+# Materi 4 - Perintah Dasar Linux - Hak Akses File dan Direktori
 
 ## Pemeriksaan Izin Akses
 
