@@ -1,5 +1,7 @@
 # Materi 4 - Terminal Linux
 
+![](https://github.com/fixploit03/Belajar-Linux/blob/main/img/terminal.webp)
+
 ## Apa itu Terminal Linux?
 
 Terminal Linux adalah antarmuka baris perintah (Command Line Interface/CLI) yang memungkinkan pengguna berinteraksi langsung dengan sistem operasi menggunakan teks perintah. Ini adalah alat powerful untuk mengelola sistem, mengotomatisasi tugas, dan mengontrol komputer dengan lebih mendalam.
