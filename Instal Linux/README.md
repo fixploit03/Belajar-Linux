@@ -1,5 +1,7 @@
 # Materi 2 - Instal Linux
 
+![](https://github.com/fixploit03/Belajar-Linux/blob/main/img/Instal%20Linux.jpg)
+
 Terdapat beberapa metode untuk menginstal sistem operasi Linux:
 
 ## 1. Dual Boot
