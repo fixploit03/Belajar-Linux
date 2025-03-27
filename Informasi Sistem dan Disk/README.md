@@ -1,4 +1,4 @@
-Informasi Sistem dan Disk# Materi 6 - Sistem dan Disk di Linux
+# Materi 4 - Perintah Dasar Linux - Informasi Sistem dan Disk
 
 ## Informasi Disk
 
