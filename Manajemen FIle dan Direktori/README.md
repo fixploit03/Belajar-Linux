@@ -1,4 +1,4 @@
-# Materi 2 - Manajemen File dan Direktori di Linux
+# Materi 4 - Perintah dasar Linux
 
 ## Membuat File dan Direktori
 
