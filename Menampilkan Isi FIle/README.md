@@ -1,8 +1,8 @@
-# Materi 4 - Perintah dasar Linux-  Menampilkan Isi File
+# Materi 5 - Perintah dasar Linux-  Menampilkan Isi File
 
 ## Dasar
 
-| Perintah	| Fungsi | Contoh Penggunaan |
+| Perintah | Fungsi | Contoh Penggunaan |
 |:--:|:--:|:--:|
 | cat `[nama_file]` | Menampilkan seluruh isi file | cat dokumen.txt |
 | tac `[nama_file]` | Menampilkan isi file dari bawah ke atas | tac laporan.log |
