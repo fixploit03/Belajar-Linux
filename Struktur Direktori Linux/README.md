@@ -1,5 +1,7 @@
 # Materi 3 - Struktur Direktori Linux
 
+![](https://github.com/fixploit03/Belajar-Linux/blob/main/img/linux-filesystem-hierarchy.png)
+
 ## Konsep Dasar Hierarki Sistem File
 
 Linux menggunakan sistem hierarki direktori yang terstandarisasi, yang dikenal sebagai Filesystem Hierarchy Standard (FHS). Struktur ini memungkinkan organisasi yang konsisten dan terstruktur dari seluruh sistem file.
