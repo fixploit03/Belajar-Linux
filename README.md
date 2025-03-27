@@ -6,6 +6,7 @@
 
 - Materi 1 - [Apa itu Linux?](https://github.com/fixploit03/Belajar-Linux/tree/main/Apa%20itu%20Linux)
 - Materi 2 - [Instal Linux](https://github.com/fixploit03/Belajar-Linux/tree/main/Instal%20Linux)
+- Materi 3 - [Struktur Direktori Linux](https://github.com/fixploit03/Belajar-Linux/tree/main/Struktur%20Direktori%20Linux)
 - [Navigasi Direktori](https://github.com/fixploit03/Belajar-Linux/tree/main/Navigasi%20Direktori)
 - [Manajemen File dan Direktori](https://github.com/fixploit03/Belajar-Linux/tree/main/Manajemen%20FIle%20dan%20Direktori)
 - [Menampilkan Isi File](https://github.com/fixploit03/Belajar-Linux/tree/main/Menampilkan%20Isi%20FIle)
