@@ -17,3 +17,5 @@
   - [Kompresi dan Ekstraksi File](https://github.com/fixploit03/Belajar-Linux/tree/main/Kompresi%20dan%20Ekstraksi%20File)
   - [Manajemen Proses](https://github.com/fixploit03/Belajar-Linux/tree/main/Manajemen%20Proses)
   - [Manajemen Pengguna dan Grup](https://github.com/fixploit03/Belajar-Linux/tree/main/Manajemen%20Pengguna%20dan%20Grup%20di%20Linux)
+
+## NGASO DULU BENTARAN!
