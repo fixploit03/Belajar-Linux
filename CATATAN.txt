@@ -1,7 +1,234 @@
-- Melihat Isi File
-- Pencarian File dan Direktori
-- Hak Akses File dan Direktori
-- Informasi Sistem dan Disk
-- Kompresi dan Ekstraksi File
-- Manajemen Proses
-- Manajemen Pengguna dan Grup
+Panduan Linux: Dari 0 to Hero 🐧
+Daftar Isi
+Bagian 1: Pengenalan Linux
+
+Apa itu Linux?
+
+Sejarah Linux
+Kernel Linux
+Distribusi Linux
+Filosofi Open Source
+
+
+Instalasi Linux
+
+Memilih Distribusi
+Metode Instalasi
+
+Dual Boot
+Virtual Machine
+Instalasi Langsung
+
+
+Persyaratan Sistem
+Langkah Instalasi Step by Step
+
+
+
+Bagian 2: Dasar-Dasar Sistem
+
+Struktur Direktori Linux
+
+Hierarki Direktori
+Fungsi Setiap Direktori
+Navigasi Filesystem
+Best Practices
+
+
+Terminal dan Antarmuka Baris Perintah
+
+Pengenalan Terminal
+Shell (Bash)
+Perintah Dasar
+Navigasi Cepat
+Shortcut Keyboard
+
+
+Manajemen File dan Direktori
+
+Perintah Navigasi
+
+pwd
+cd
+ls
+
+
+Manajemen File
+
+touch
+cp
+mv
+rm
+
+
+Manajemen Direktori
+
+mkdir
+rmdir
+
+
+
+
+Hak Akses dan Kepemilikan File
+
+Konsep Izin (Permissions)
+Notasi Oktal
+Perintah chmod
+Perintah chown
+Konsep Pemilik, Grup, dan Lainnya
+
+
+
+Bagian 3: Manajemen Sistem Lanjut
+
+Manajemen Pengguna dan Grup
+
+Membuat Pengguna
+Manajemen Grup
+Sudo dan Hak Akses Root
+Konfigurasi Pengguna Lanjut
+
+
+Manajemen Paket
+
+Sistem Paket
+
+APT (Debian/Ubuntu)
+DNF/YUM (Fedora/CentOS)
+Pacman (Arch)
+
+
+Instalasi Perangkat Lunak
+Pembaruan Sistem
+Pembersihan Paket
+
+
+Proses dan Sumber Daya
+
+Perintah Monitoring
+
+ps
+top
+htop
+
+
+Manajemen Proses
+Prioritas Proses
+Background dan Foreground
+
+
+
+Bagian 4: Jaringan dan Keamanan
+
+Jaringan Dasar
+
+Konfigurasi Jaringan
+Perintah Jaringan
+
+ping
+ifconfig/ip
+netstat
+
+
+Troubleshooting Jaringan
+
+
+Keamanan Sistem
+
+Firewall
+SELinux
+Enkripsi
+Praktik Keamanan Terbaik
+
+
+
+Bagian 5: Scripting dan Otomatisasi
+
+Bash Scripting Dasar
+
+Struktur Script
+Variabel
+Kondisional
+Perulangan
+Fungsi
+
+
+Tugas Terjadwal
+
+Crontab
+Systemd Timers
+Otomatisasi Tugas
+
+
+
+Bagian 6: Alat dan Utilitas Lanjut
+
+Text Processing
+
+grep
+sed
+awk
+Ekspresi Reguler
+
+
+Kompresi dan Arsip
+
+tar
+gzip
+zip
+Manajemen Arsip
+
+
+
+Bagian 7: Administrasi Sistem Lanjut
+
+Manajemen Disk
+
+Partisi
+Format Filesystem
+Mount/Unmount
+Sistem File Network
+
+
+Logging dan Monitoring
+
+Systemd Journal
+Log Sistem
+Monitoring Kinerja
+
+
+
+Bagian 8: Proyek dan Praktik
+
+Proyek Praktis
+
+Web Server
+Firewall
+Home Server
+Otomatisasi Backup
+
+
+Sumber Belajar Lanjut
+
+Dokumentasi Resmi
+Komunitas Online
+Sertifikasi
+
+
+
+Tips Belajar Linux
+
+Praktik Konsisten
+Eksperimen dengan Aman
+Gunakan Distribusi Ramah Pemula
+Bergabung dengan Komunitas
+Baca Dokumentasi
+
+Penutup
+Linux adalah perjalanan pembelajaran seumur hidup. Terus berkembang, eksplor, dan nikmati prosesnya! 🚀
+Referensi Tambahan
+
+Linux Documentation Project
+Linux Man Pages
+Forum Komunitas Linux
+Buku Referensi Resmi
